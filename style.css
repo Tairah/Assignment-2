@@ -1,0 +1,19 @@
+body {
+  background-color: cornsilk;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 60%
+}
+
+img {
+  border-radius: 50%;
+}
+
+#a {
+  quotes: "UNIX is simple. It just takes a genius to understand it's simplicity";
+}
